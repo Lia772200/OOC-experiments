@@ -84,8 +84,8 @@ public:
 
 
 int main() {
-    SavingAccount sav("riya", 1001, 5000.0, 5.0);
-    CheckingAccount chk("riya", 1002, 10000.0, 20.0);
+    SavingAccount sav("Riya", 1001, 5000.0, 5.0);
+    CheckingAccount chk("Riya", 1002, 10000.0, 20.0);
 
     sav.display();
     sav.deposit(1000);
@@ -98,4 +98,5 @@ int main() {
 
     return 0;
 }
+
 
