@@ -6,8 +6,8 @@ using namespace std;
 //Driver Code 
 int main()
 {
-    cout<<"Samruddhi M Suryawanshi"<<endl;
-    cout<<"Roll No: 42"<<endl;
+    cout<<"Riya Sutar<<endl;
+    cout<<"Roll No: 33"<<endl;
     cout<<"Div: B"<<endl;
 
 // Creation of ofstream class object
